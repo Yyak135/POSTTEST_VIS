@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\063_posttest2\bin\Debug\net8.0-windows\063_posttest2.exe
+C:\Users\Lenovo\source\repos\063_posttest2\bin\Debug\net8.0-windows\063_posttest2.deps.json
+C:\Users\Lenovo\source\repos\063_posttest2\bin\Debug\net8.0-windows\063_posttest2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\063_posttest2\bin\Debug\net8.0-windows\063_posttest2.dll
+C:\Users\Lenovo\source\repos\063_posttest2\bin\Debug\net8.0-windows\063_posttest2.pdb
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\_063_posttest2.Form1.resources
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.AssemblyInfo.vb
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.dll
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\refint\063_posttest2.dll
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.pdb
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\063_posttest2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\063_posttest2\obj\Debug\net8.0-windows\ref\063_posttest2.dll
