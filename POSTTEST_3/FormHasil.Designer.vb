@@ -84,7 +84,7 @@ Partial Class FormHasil
         Label5.AutoSize = True
         Label5.BackColor = Color.Transparent
         Label5.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label5.Location = New Point(260, 300)
+        Label5.Location = New Point(260, 290)
         Label5.Name = "Label5"
         Label5.Size = New Size(68, 23)
         Label5.TabIndex = 17
@@ -95,7 +95,7 @@ Partial Class FormHasil
         Label4.AutoSize = True
         Label4.BackColor = Color.Transparent
         Label4.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label4.Location = New Point(260, 220)
+        Label4.Location = New Point(260, 210)
         Label4.Name = "Label4"
         Label4.Size = New Size(100, 23)
         Label4.TabIndex = 16
@@ -106,7 +106,7 @@ Partial Class FormHasil
         Label3.AutoSize = True
         Label3.BackColor = Color.Transparent
         Label3.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label3.Location = New Point(260, 160)
+        Label3.Location = New Point(260, 150)
         Label3.Name = "Label3"
         Label3.Size = New Size(119, 23)
         Label3.TabIndex = 15
@@ -117,7 +117,7 @@ Partial Class FormHasil
         Label2.AutoSize = True
         Label2.BackColor = Color.Transparent
         Label2.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(260, 130)
+        Label2.Location = New Point(260, 120)
         Label2.Name = "Label2"
         Label2.Size = New Size(55, 23)
         Label2.TabIndex = 14
@@ -128,7 +128,7 @@ Partial Class FormHasil
         Label1.AutoSize = True
         Label1.BackColor = Color.Transparent
         Label1.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(260, 100)
+        Label1.Location = New Point(260, 90)
         Label1.Name = "Label1"
         Label1.Size = New Size(57, 23)
         Label1.TabIndex = 13
@@ -138,7 +138,7 @@ Partial Class FormHasil
         ' 
         lblNama.AutoSize = True
         lblNama.BackColor = Color.Transparent
-        lblNama.Location = New Point(400, 100)
+        lblNama.Location = New Point(400, 90)
         lblNama.Name = "lblNama"
         lblNama.Size = New Size(0, 20)
         lblNama.TabIndex = 18
@@ -147,7 +147,7 @@ Partial Class FormHasil
         ' 
         lblUmur.AutoSize = True
         lblUmur.BackColor = Color.Transparent
-        lblUmur.Location = New Point(400, 130)
+        lblUmur.Location = New Point(400, 120)
         lblUmur.Name = "lblUmur"
         lblUmur.Size = New Size(0, 20)
         lblUmur.TabIndex = 19
@@ -156,7 +156,7 @@ Partial Class FormHasil
         ' 
         lblTanggal.AutoSize = True
         lblTanggal.BackColor = Color.Transparent
-        lblTanggal.Location = New Point(400, 160)
+        lblTanggal.Location = New Point(400, 150)
         lblTanggal.Name = "lblTanggal"
         lblTanggal.Size = New Size(0, 20)
         lblTanggal.TabIndex = 20
@@ -166,7 +166,7 @@ Partial Class FormHasil
         Label6.AutoSize = True
         Label6.BackColor = Color.Transparent
         Label6.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label6.Location = New Point(260, 190)
+        Label6.Location = New Point(260, 180)
         Label6.Name = "Label6"
         Label6.Size = New Size(119, 23)
         Label6.TabIndex = 21
@@ -176,7 +176,7 @@ Partial Class FormHasil
         ' 
         lblJK.AutoSize = True
         lblJK.BackColor = Color.Transparent
-        lblJK.Location = New Point(400, 190)
+        lblJK.Location = New Point(400, 180)
         lblJK.Name = "lblJK"
         lblJK.Size = New Size(0, 20)
         lblJK.TabIndex = 22
@@ -185,7 +185,7 @@ Partial Class FormHasil
         ' 
         lblTelepon.AutoSize = True
         lblTelepon.BackColor = Color.Transparent
-        lblTelepon.Location = New Point(400, 220)
+        lblTelepon.Location = New Point(400, 210)
         lblTelepon.Name = "lblTelepon"
         lblTelepon.Size = New Size(0, 20)
         lblTelepon.TabIndex = 23
@@ -195,7 +195,7 @@ Partial Class FormHasil
         Label7.AutoSize = True
         Label7.BackColor = Color.Transparent
         Label7.Font = New Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label7.Location = New Point(260, 250)
+        Label7.Location = New Point(260, 240)
         Label7.Name = "Label7"
         Label7.Size = New Size(64, 23)
         Label7.TabIndex = 24
@@ -204,7 +204,7 @@ Partial Class FormHasil
         ' lblHobby
         ' 
         lblHobby.BackColor = Color.Transparent
-        lblHobby.Location = New Point(400, 250)
+        lblHobby.Location = New Point(400, 240)
         lblHobby.Name = "lblHobby"
         lblHobby.Size = New Size(350, 40)
         lblHobby.TabIndex = 25
@@ -212,7 +212,7 @@ Partial Class FormHasil
         ' lblAlamat
         ' 
         lblAlamat.BackColor = Color.Transparent
-        lblAlamat.Location = New Point(400, 300)
+        lblAlamat.Location = New Point(400, 290)
         lblAlamat.Name = "lblAlamat"
         lblAlamat.Size = New Size(350, 40)
         lblAlamat.TabIndex = 26
